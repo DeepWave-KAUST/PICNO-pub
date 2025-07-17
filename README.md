@@ -1,7 +1,6 @@
 # PICNO-pub
 
-Reproducible material for **An effective physics-informed neural operator1
-framework for predicting wavefields - Xiao Ma, Tariq Alkhalifah**
+Reproducible material for **An effective physics-informed neural operator framework for predicting wavefields - Xiao Ma, Tariq Alkhalifah**
 
 # Project structure
 
