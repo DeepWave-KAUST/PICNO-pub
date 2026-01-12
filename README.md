@@ -1,5 +1,5 @@
 # PICNO-pub
-![LOGO](https://github.com/DeepWave-KAUST/VMB_with_diffusion-FNO/blob/main/network2_01.png)
+![LOGO](https://github.com/DeepWave-KAUST/PICNO-pub/blob/main/Network.png)
 Reproducible material for **An effective physics-informed neural operator framework for predicting wavefields - Xiao Ma, Tariq Alkhalifah**
 
 # Project structure
