@@ -1,16 +1,15 @@
 # PICNO-pub
-![LOGO](https://github.com/DeepWave-KAUST/VMB_with_diffusion-FNO/blob/main/network2_01.png)
+![LOGO](https://github.com/DeepWave-KAUST/PICNO-pub/blob/main/Network.png)
 Reproducible material for **An effective physics-informed neural operator framework for predicting wavefields - Xiao Ma, Tariq Alkhalifah**
 
 # Project structure
 
 This repository is organized as follows:
 
-- :open_file_folder: **package**: python library containing routines for ....;
 - :open_file_folder: **asset**: folder containing logo;
-- :open_file_folder: **data**: folder containing data (or instructions on how to retrieve the data
+- :open_file_folder: **data**: Instructions on how to retrieve the data
 - :open_file_folder: **notebooks**: set of jupyter notebooks reproducing the experiments in the paper (see below for more details);
-- :open_file_folder: **scripts**: set of python scripts used to run multiple experiments ...
+- :open_file_folder: **neuralseismic_xiao**: set of python scripts used to run multiple experiments ...
 
 ## Notebooks
 
