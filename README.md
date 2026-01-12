@@ -14,7 +14,7 @@ This repository is organized as follows:
 
 ## Notebooks and python file
 
-The following notebooks are provided:
+The following notebooks or file are provided:
 
 - :orange_book: `openfwi_xHz_cno_no_pde.ipynb`: notebook performing results with no pde loss;
 - :orange_book: `openfwi_xHz_cno.ipynb`: notebook performing results with pde loss
@@ -38,5 +38,4 @@ Remember to always activate the environment by typing:
 conda activate my_env
 ```
 
-**Disclaimer:** All experiments have been carried on a Intel(R) Xeon(R) CPU @ 2.10GHz equipped with a single NVIDIA A100 GPU. Different environment
-configurations may be required for different combinations of workstation and GPU.
+**Disclaimer**: All experiments were conducted on a SLURM-managed GPU cluster equipped with Intel® Xeon® CPUs @ 2.10 GHz and a single NVIDIA A100 GPU per job allocation. Different environment configurations may be required for other workstation, cluster, or GPU architectures.
