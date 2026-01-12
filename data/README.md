@@ -1,3 +1,5 @@
 # PICNO-pub
-To download the data please refer to this link:https://drive.google.com/drive/folders/1nkjHP8vE6vA-4tNemwuubgJddvajV4cy?usp=drive_link
-Due to storage limitations, only the 12 Hz dataset is publicly available. This dataset is sufficient for reproducing the experimental results presented in this study. For access to datasets with other frequency settings, please contact xiao.ma@kaust.edu.sa.
+
+To download the data please refer to this link:https://drive.google.com/drive/folders/1nkjHP8vE6vA-4tNemwuubgJddvajV4cy?usp=drive_link.
+
+Note that due to storage limitations, only the 12 Hz dataset is publicly available. This dataset is sufficient for reproducing the experimental results presented in this study. For access to datasets with other frequency settings, please contact xiao.ma@kaust.edu.sa.
