@@ -1,4 +1,5 @@
 # PICNO-pub
+
 ![LOGO](https://github.com/DeepWave-KAUST/PICNO-pub/blob/main/Network.png)
 Reproducible material for **An effective physics-informed neural operator framework for predicting wavefields - Xiao Ma, Tariq Alkhalifah**
 
@@ -11,12 +12,13 @@ This repository is organized as follows:
 - :open_file_folder: **notebooks**: set of jupyter notebooks reproducing the experiments in the paper (see below for more details);
 - :open_file_folder: **neuralseismic_xiao**: set of python scripts used to run multiple experiments ...
 
-## Notebooks
+## Notebooks and python file
 
 The following notebooks are provided:
 
 - :orange_book: `openfwi_xHz_cno_no_pde.ipynb`: notebook performing results with no pde loss;
 - :orange_book: `openfwi_xHz_cno.ipynb`: notebook performing results with pde loss
+- :snake: train_cno.py: training script for the CNO-based model (handles data loading, model initialization, loss definition, and the full training/validation loop).
 
 ## Getting started :space_invader: :robot:
 
